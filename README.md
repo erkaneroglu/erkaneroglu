@@ -6,4 +6,4 @@
 - 📫 How to reach me: info@erogluerkan.com
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=erkaneroglu&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=fffff">
+<img src="https://github-readme-stats.vercel.app/api?username=erkaneroglu&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=34495e">
