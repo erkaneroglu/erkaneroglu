@@ -1,7 +1,7 @@
 ### Hi there, I'm Erkan 👋
 
 - 🌱 I’m currently learning Flutter
-- 💬 Ask me about anything [here](https://twitter.com/_ErkanEroglu97)
+- 💬 Ask me about anything [here](https://twitter.com/erkaneroglu97)
 - ⚡ Fun fact: 🏀 🎵 🎞 
 - 📫 How to reach me: info@erogluerkan.com
 
